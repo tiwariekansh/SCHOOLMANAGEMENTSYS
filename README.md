@@ -1,2 +1,1 @@
-# SCHOOLMANAGEMENTSYS
-MANAGEMENT OF SENIOR SCHOOL
+This process is mainly developed for demo purpose
